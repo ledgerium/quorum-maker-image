@@ -13,7 +13,3 @@ apt-get install -y iputils-ping
 add-apt-repository ppa:ethereum/ethereum -y
 apt-get update
 apt-get install solc -y
-apt-get install bsdmainutils
-apt-get install -y openjdk-8-jdk
-apt-get -y install maven
-apt-get -y install net-tools
